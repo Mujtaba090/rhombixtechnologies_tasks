@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Pro To-Do App</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <div class="container">
+    <h1>🚀 To-Do App</h1>
+
+    <div id="auth">
+      <input type="email" id="email" placeholder="Email" />
+      <input type="password" id="password" placeholder="Password" />
+      <button id="login">Login</button>
+      <button id="register">Register</button>
+    </div>
+
+    <div id="todo-section" style="display:none;">
+      <div class="task-input">
+        <input type="text" id="taskText" placeholder="Add a new task" />
+        <input type="date" id="dueDate" />
+        <button id="addTask">➕</button>
+      </div>
+      <ul id="taskList"></ul>
+    </div>
+  </div>
+</body>
+</html>

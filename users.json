@@ -1,0 +1,18 @@
+[
+  {
+    "email": "",
+    "password": "$2b$10$wHdzOKHroDIE.TW/WnoV4uNggq/5HVsZTsU8WYKrMo.LNr2qy9RI2"
+  },
+  {
+    "email": "test@email.com",
+    "password": "$2b$10$S8IU9OMqT87UHGJQdfVgU.k0VmiRWCUebZ79Nqb15aE7.zE1x/zam"
+  },
+  {
+    "email": "khan@123.com",
+    "password": "$2b$10$VO11qOFtq4GCqBwdVro72uInKiRmW0RcnNdbmJzOAyPPPkYKWoAMC"
+  },
+  {
+    "email": "khan1@123.com",
+    "password": "$2b$10$l4LST8q89D6fqtoIydazqeM3j1iqLcGzGWDOD7Sbhk69bvinXs3uC"
+  }
+]
